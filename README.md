@@ -12,12 +12,14 @@ The concepts implemented in the projects are
 
 1) Multiple pages using react router
 2) Route based concepts like loaders and actions
-3) Reusable components
-4) Lean components
-5) React Formik libraries to handle forms
-6) Redux and redux toolkit
-7) optimistic UI updating
-8) action creators (thunks)
+3) Local State Management
+4) Reusable components
+5) Lean components
+6) React Formik library to handle forms
+7) Redux and redux toolkit
+8) optimistic UI updating
+9) action creators (thunks)
+10) Realtime data fetching using fetch
 
 ## Usage
 
